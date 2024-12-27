@@ -15,10 +15,10 @@ Guarda frnaquicia, sucursales y productos en base de datos en memoria H2
 
 ## Desarrollo
 1. Instale Java 11 y un IDE de desarrollo como Eclipse o IntelliJ.
-2. Clone este repositorio.
+2. Clone este repositorio https://github.com/camilocastrotor/apifranquicias.git.
 3. Permita la construcción del proyecto con gradle.
 4. Inicialice el proyecto desde ApiFranquiciaApplication
-5. Pruebe conumiendo el servicio con una herramienta para consumir apis como postman
+5. Pruebe consumiendo el servicio con una herramienta para consumir apis como postman, se adjunta proyecto postman en: src/main/resources/Reto tecnico franquicia.postman_collection.json
 
 
 ## Configuración local
